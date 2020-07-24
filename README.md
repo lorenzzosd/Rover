@@ -42,3 +42,8 @@ MMRMMRMRRM
 ```
 #### How to use
  - rake rovers:move[FILE_NAME_PATH]
+ 
+#### Main classes
+ - [move_rovers_service](https://github.com/lorenzzosd/Test-Rover/blob/master/app/services/move_rovers_service.rb)
+ - [rover](https://github.com/lorenzzosd/Test-Rover/blob/master/app/models/rover.rb)
+ - [rake](https://github.com/lorenzzosd/Test-Rover/blob/master/lib/tasks/rovers.rake)
